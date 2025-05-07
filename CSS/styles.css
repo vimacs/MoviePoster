@@ -1,0 +1,34 @@
+html{
+    background-color: rgb(148, 137, 121);
+}
+
+.total{
+    width: max-content;
+    margin: auto;
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+    border: 1rem solid black;
+}
+
+.poster{
+    margin: auto;
+    margin-bottom: 0;
+    height: 38rem;
+    width: 24.68rem;
+    border: 3rem solid rgb(57, 62, 70);
+    border-bottom: 0px;
+}
+
+img{
+    height: 38rem;
+}
+
+.quote{
+    font-size: large;
+    padding: 1rem;
+    margin: auto;
+    width: 28.68rem;
+    text-align: center;
+    background-color: rgb(57, 62, 70);
+    color: rgb(223, 208, 184);
+}
